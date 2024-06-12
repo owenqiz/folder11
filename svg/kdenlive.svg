@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="90.3mm" height="90.3mm" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_7);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #000;
+        fill-opacity: .3;
+      }
+
+      .cls-3 {
+        fill: #527eb2;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .cls-6 {
+        fill: #f38577;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-11 {
+        mask: url(#mask);
+      }
+
+      .cls-7 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .cls-8 {
+        fill: #83b9f5;
+      }
+
+      .cls-12 {
+        mix-blend-mode: multiply;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" width="256" height="256"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="17" y1="103" x2="241" y2="103" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#83b9f5"/>
+      <stop offset="1" stop-color="#527eb2"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="32.6" y1="239.5" x2="213.3" y2="58.4" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05815d"/>
+      <stop offset="1" stop-color="#0c575f"/>
+    </linearGradient>
+    <mask id="mask" x="17" y="34" width="224" height="138" maskUnits="userSpaceOnUse">
+      <g id="mask0_2032_35191" data-name="mask0 2032 35191">
+        <path class="cls-5" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+      </g>
+    </mask>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="17" y1="196" x2="241" y2="48" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5f585e"/>
+      <stop offset="1" stop-color="#010101"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-9">
+    <g id="_图层_1" data-name="图层 1">
+      <g class="cls-10">
+        <g>
+          <path class="cls-1" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+          <g class="cls-11">
+            <g class="cls-12">
+              <path class="cls-2" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v86c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-74c0-6.6,5.4-12,12-12h63.8Z"/>
+            </g>
+          </g>
+          <path class="cls-7" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v124c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-112c0-6.6,5.4-12,12-12h63.8Z"/>
+        </g>
+      </g>
+      <g id="layer1">
+        <g id="g5995-0-6">
+          <g id="g5997-6-2">
+            <path id="path5999-1-9" class="cls-8" d="M117.9,106.1v5h6.9v-5h-6.9Z"/>
+            <path id="path6001-5-1" class="cls-8" d="M112.4,114.3v5h12.4v-5h-12.4Z"/>
+            <path id="path6003-54-2" class="cls-8" d="M97.8,122.4v5h27v-5h-27Z"/>
+            <path id="path6005-7-7" class="cls-8" d="M82.9,130.5v5h41.8v-5h-41.8Z"/>
+            <path id="path6007-6-09" class="cls-8" d="M73.1,138.6v5h51.7v-5h-51.7Z"/>
+            <path id="path6009-5-3" class="cls-8" d="M89.5,146.7v5h35.3v-5h-35.3Z"/>
+            <path id="path6011-6-6" class="cls-8" d="M103.9,154.8v5h21v-5h-21Z"/>
+            <path id="path6013-9-0" class="cls-8" d="M98.2,162.9v5h26.6v-5h-26.6Z"/>
+            <path id="path6015-3-6" class="cls-8" d="M111.9,170.7v5h12.8v-5h-12.8Z"/>
+          </g>
+          <g id="g6017-7-2">
+            <path id="path6019-4-61" class="cls-6" d="M145.9,93h-21.9l10.8,16.7,11.1-16.7Z"/>
+            <path id="path6021-5-8" class="cls-6" d="M136.2,96v87.5h-2.8v-87.5h2.8Z"/>
+          </g>
+          <path id="path6023-2-7" class="cls-3" d="M146.6,106.1c-1,0-1.9.8-1.9,1.8v66.1c0,1.5,1.7,2.3,2.9,1.5l45.5-33c1-.7,1-2.2,0-2.9l-45.5-33c-.3-.3-.6-.4-1-.4h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

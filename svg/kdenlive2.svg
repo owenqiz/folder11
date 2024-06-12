@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="90.3mm" height="90.3mm" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_7);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #000;
+        fill-opacity: .3;
+      }
+
+      .cls-3 {
+        fill: #527eb2;
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .cls-5 {
+        fill: #f38577;
+      }
+
+      .cls-9 {
+        mask: url(#mask);
+      }
+
+      .cls-6 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .cls-7 {
+        fill: #83b9f5;
+      }
+
+      .cls-10 {
+        mix-blend-mode: multiply;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="17" y1="103" x2="241" y2="103" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#83b9f5"/>
+      <stop offset="1" stop-color="#527eb2"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="32.6" y1="239.5" x2="213.3" y2="58.4" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05815d"/>
+      <stop offset="1" stop-color="#0c575f"/>
+    </linearGradient>
+    <mask id="mask" x="17" y="34" width="224" height="138" maskUnits="userSpaceOnUse">
+      <g id="mask0_1016_29997" data-name="mask0 1016 29997">
+        <path class="cls-4" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+      </g>
+    </mask>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="17" y1="196" x2="241" y2="48" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e3e3e3"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-8">
+    <g id="_图层_1" data-name="图层 1">
+      <path class="cls-1" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+      <g class="cls-9">
+        <g class="cls-10">
+          <path class="cls-2" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v86c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-74c0-6.6,5.4-12,12-12h63.8Z"/>
+        </g>
+      </g>
+      <path class="cls-6" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v124c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-112c0-6.6,5.4-12,12-12h63.8Z"/>
+      <g id="layer1">
+        <g id="g5995-0-6">
+          <g id="g5997-6-2">
+            <path id="path5999-1-9" class="cls-7" d="M117.4,102.6v5.3h7.2v-5.3h-7.2Z"/>
+            <path id="path6001-5-1" class="cls-7" d="M111.7,111.1v5.3h13v-5.3h-13Z"/>
+            <path id="path6003-54-2" class="cls-7" d="M96.5,119.5v5.3h28.1v-5.3h-28.1Z"/>
+            <path id="path6005-7-7" class="cls-7" d="M81,127.9v5.3h43.5v-5.3h-43.5Z"/>
+            <path id="path6007-6-09" class="cls-7" d="M70.8,136.4v5.3h53.8v-5.3h-53.8Z"/>
+            <path id="path6009-5-3" class="cls-7" d="M87.8,144.8v5.3h36.8v-5.3h-36.8Z"/>
+            <path id="path6011-6-6" class="cls-7" d="M102.8,153.3v5.3h21.8v-5.3h-21.8Z"/>
+            <path id="path6013-9-0" class="cls-7" d="M96.9,161.7v5.3h27.7v-5.3h-27.7Z"/>
+            <path id="path6015-3-6" class="cls-7" d="M111.2,169.7v5.3h13.4v-5.3h-13.4Z"/>
+          </g>
+          <g id="g6017-7-2">
+            <path id="path6019-4-61" class="cls-5" d="M146.5,88.9h-22.8l11.3,17.4,11.5-17.4Z"/>
+            <path id="path6021-5-8" class="cls-5" d="M136.5,92.1v91.1h-2.9v-91.1h2.9Z"/>
+          </g>
+          <path id="path6023-2-7" class="cls-3" d="M147.3,102.6c-1,0-2,.8-2,1.9v68.8c0,1.5,1.7,2.4,3,1.5l47.4-34.4c1-.8,1-2.3,0-3.1l-47.4-34.4c-.3-.3-.6-.4-1-.4h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
