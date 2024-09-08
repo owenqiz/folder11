@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-opacity: .3;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #474747;
+        stroke-width: 1.4px;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_19);
+      }
+
+      .cls-5 {
+        fill: #606060;
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .cls-7 {
+        fill: #474747;
+      }
+
+      .cls-8 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-9 {
+        fill: #d24646;
+      }
+
+      .cls-10 {
+        fill: #2a58ae;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_19" data-name="未命名的渐变 19" x1="17.1" y1="154.9" x2="241.1" y2="154.9" gradientTransform="translate(-.1 257.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a58ae"/>
+      <stop offset=".3" stop-color="#2b58ac"/>
+      <stop offset=".4" stop-color="#2f58a5"/>
+      <stop offset=".5" stop-color="#385a99"/>
+      <stop offset=".5" stop-color="#435b88"/>
+      <stop offset=".6" stop-color="#525e72"/>
+      <stop offset=".6" stop-color="#606060"/>
+      <stop offset=".7" stop-color="#735b5b"/>
+      <stop offset=".9" stop-color="#a45050"/>
+      <stop offset="1" stop-color="#d24646"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="17.1" y1="884.1" x2="241.1" y2="1032.1" gradientTransform="translate(-.1 -821.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e3e3e3"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="_图层_1" data-name="图层_1">
+      <g class="cls-6">
+        <g id="_图层_1-2" data-name="_图层_1">
+          <path class="cls-2" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8h0Z"/>
+          <g class="cls-8">
+            <path class="cls-1" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v86c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-74c0-6.6,5.4-12,12-12h63.8Z"/>
+          </g>
+          <path class="cls-3" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v124c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-112c0-6.6,5.4-12,12-12h63.8Z"/>
+          <g>
+            <path class="cls-4" d="M173.4,116.7c15.5,25.9,12.5,56.2-6.8,67.7-19.2,11.4-47.2-.1-62.8-25.9-15.5-25.9-12.5-56.2,6.8-67.7,19.2-11.4,47.2.1,62.8,25.9Z"/>
+            <path class="cls-10" d="M136.4,112.2c-17.6,0-31.8,14.2-31.8,31.8s14.2,31.8,31.8,31.8,31.8-14.2,31.8-31.8-14.2-31.8-31.8-31.8ZM130.7,129c12,0,21.7,9.7,21.7,21.6s-9.8,21.7-21.7,21.7-21.6-9.8-21.6-21.7,9.7-21.6,21.6-21.6Z"/>
+            <path class="cls-7" d="M71.9,140.8s-12.8,12.2-11.8,19.8c1.4,10.5,14.6,12.2,25,12.1,25.3-.3,115.3-29.8,115-65.3,0-11.5-20.7-12.5-20.7-11.8,0,0,15.3,3.8,14.9,11.2-1.2,27.5-76.4,58.4-109.8,59.2-7,.2-16.8-1.3-19.6-7.8-2.5-5.8,6.9-17.5,6.9-17.5h0Z"/>
+            <path class="cls-9" d="M174.6,109c0,8.8-7.1,15.9-15.9,15.9s-15.9-7.1-15.9-15.9,7.1-15.9,15.9-15.9,15.9,7.1,15.9,15.9Z"/>
+            <path class="cls-5" d="M130,159.9c0,5.3-4.3,9.5-9.5,9.5s-9.5-4.3-9.5-9.5,4.3-9.5,9.5-9.5,9.5,4.3,9.5,9.5Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
