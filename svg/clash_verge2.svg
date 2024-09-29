@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-opacity: .3;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-8 {
+        fill: url(#_未命名的渐变_30);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_17);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_17" data-name="未命名的渐变 17" x1="17" y1="103" x2="241" y2="103" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f481b0"/>
+      <stop offset="1" stop-color="#9082f9"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="32.6" y1="239.5" x2="213.3" y2="58.4" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05815d"/>
+      <stop offset="1" stop-color="#0c575f"/>
+    </linearGradient>
+    <mask id="mask" x="17" y="34" width="224" height="138" maskUnits="userSpaceOnUse">
+      <g id="mask0_510_12091">
+        <path class="cls-2" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+      </g>
+    </mask>
+    <radialGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" cx="-829.3" cy="667" fx="-829.3" fy="667" r="1" gradientTransform="translate(335185.9 103620.3) rotate(-33.5) scale(268.5 -406.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#efe7de"/>
+      <stop offset=".5" stop-color="#ecdde4"/>
+      <stop offset="1" stop-color="#e9d9e9"/>
+    </radialGradient>
+    <linearGradient id="_未命名的渐变_30" data-name="未命名的渐变 30" x1="177.1" y1="99.4" x2="80.8" y2="154.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f183af"/>
+      <stop offset=".1" stop-color="#e082ba"/>
+      <stop offset=".4" stop-color="#bd82d2"/>
+      <stop offset=".6" stop-color="#a482e4"/>
+      <stop offset=".8" stop-color="#9582ef"/>
+      <stop offset="1" stop-color="#9082f3"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g class="cls-6">
+    <g id="_图层_1" data-name="图层_1">
+      <path class="cls-4" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+      <g class="cls-5">
+        <g class="cls-7">
+          <path class="cls-1" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v86c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-74c0-6.6,5.4-12,12-12h63.8Z"/>
+        </g>
+      </g>
+      <path class="cls-3" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v124c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-112c0-6.6,5.4-12,12-12h63.8Z"/>
+      <path class="cls-8" d="M178.4,143.6c-1-3.3-2.1-6.6-3.7-9.8-.6-1.2-.8-2.4-.8-3.8.2-4.9.5-9.8.4-14.4.1-6.8,0-13.4-1.1-19.9-.3-2.2-.8-4.4-1.9-6.4-1-1.9-2.3-2.4-4.3-1.7-.8.3-1.6.7-2.4,1.2-2.9,1.9-5.5,4.1-7.9,6.6-3.5,3.4-7,6.9-10.7,10.1-1.6,1.4-3.3,1.7-5.4,1.2-7.7-2-15.5-2-23.2,0-2.4.6-4.3.2-6-1.4-3.9-3.7-7.9-7.5-11.8-11.2-2.6-2.4-5.1-4.8-8.4-6.2-2.2-.9-3.6-.4-4.7,1.7-1.1,2-1.6,4.2-1.9,6.4-1.4,9.9-1.4,19.8-.9,29.7.2,3.6.3,7-1.6,10.3-1.4,2.6-2.1,5.5-2.9,8.4s-.5,5.7.7,8.5c1.3,2.9,3,5.5,5,7.9,5.5,6.5,12.1,11.6,19.6,15.5,9.5,4.9,19.5,7.2,30.2,5.8,10.8-1.4,20.2-6,28.7-12.6,5.7-4.5,10.8-9.6,14-16.3,1.5-3.1,1.8-6.2.8-9.5h.2ZM117.1,152.4c-1.1,2.5-3.4,2.9-5.8,3.1-5.3.5-10.6-2.8-12.6-7.7-1.8-4.4.2-7.4,5.7-7.4,3.9.4,8.1,1.8,11.2,5.5,1.6,1.9,2.6,4.1,1.5,6.5h0ZM134.9,165.1c-.9,1.1-2,2-3.2,2.7-2,1.3-4.1,1.4-6.2.2-1.4-.8-2.8-1.8-3.8-3.2-1.2-1.5-.8-2.6,1-3.2,2-.7,4.1-.7,6-.9,1.8.2,3.6.2,5.2.8,2.2.7,2.5,1.9,1,3.7h0ZM158.2,147.6c-2.1,5.6-8.6,9-14.5,7.6-3.7-.8-5.2-3.7-3.7-7.3.4-1,1.1-1.9,1.9-2.7,3.1-3.2,7-4.5,10.7-4.8,5.2,0,7.3,2.9,5.6,7.2Z"/>
+    </g>
+  </g>
+</svg>
