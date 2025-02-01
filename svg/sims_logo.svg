@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill-opacity: .3;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill-rule: evenodd;
+      }
+
+      .st4 {
+        fill: url(#_未命名的渐变_62);
+      }
+
+      .st5 {
+        fill: url(#_未命名的渐变_63);
+      }
+
+      .st6 {
+        fill: url(#_未命名的渐变_65);
+      }
+
+      .st7 {
+        mask: url(#mask);
+      }
+
+      .st1 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st8 {
+        isolation: isolate;
+      }
+
+      .st9 {
+        fill: url(#_未命名的渐变_6);
+      }
+
+      .st10 {
+        mix-blend-mode: multiply;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_64);
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变_61);
+      }
+
+      .st3 {
+        fill: #0364b8;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="32.6" y1="239.5" x2="213.3" y2="58.4" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05815d"/>
+      <stop offset="1" stop-color="#0c575f"/>
+    </linearGradient>
+    <mask id="mask" x="17" y="34" width="224" height="138" maskUnits="userSpaceOnUse">
+      <g id="mask0_719_17127">
+        <path class="st1" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+      </g>
+    </mask>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="17" y1="196" x2="241" y2="48" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7fdff"/>
+      <stop offset="1" stop-color="#84bae3"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" x1="-139.3" y1="171.8" x2="-139.3" y2="166.3" gradientTransform="translate(393.5 559) scale(2.5 -2.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2eb6fe"/>
+      <stop offset=".2" stop-color="#28a0fa"/>
+      <stop offset=".4" stop-color="#217ef3"/>
+      <stop offset=".6" stop-color="#1956e6"/>
+      <stop offset=".8" stop-color="#1340d9"/>
+      <stop offset="1" stop-color="#1134d0"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_61" data-name="未命名的渐变 6" x1="-135.4" x2="-135.4" xlink:href="#_未命名的渐变_6"/>
+    <linearGradient id="_未命名的渐变_62" data-name="未命名的渐变 6" x1="-131.4" x2="-131.4" y2="166.3" xlink:href="#_未命名的渐变_6"/>
+    <linearGradient id="_未命名的渐变_63" data-name="未命名的渐变 6" x1="-127.4" y1="186" x2="-127.4" y2="159.2" xlink:href="#_未命名的渐变_6"/>
+    <linearGradient id="_未命名的渐变_64" data-name="未命名的渐变 6" x1="-115.1" y1="186" x2="-115.1" y2="159.2" xlink:href="#_未命名的渐变_6"/>
+    <linearGradient id="_未命名的渐变_65" data-name="未命名的渐变 6" x1="-93.2" y1="186" x2="-93.2" y2="159.2" xlink:href="#_未命名的渐变_6"/>
+  </defs>
+  <g class="st8">
+    <g id="_图层_1" data-name="图层_1">
+      <path class="st3" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.8Z"/>
+      <g class="st7">
+        <g class="st10">
+          <path class="st0" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v86c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-74c0-6.6,5.4-12,12-12h63.8Z"/>
+        </g>
+      </g>
+      <path class="st2" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v124c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-112c0-6.6,5.4-12,12-12h63.8Z"/>
+      <g>
+        <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0.5" fit-margin-left="0.5" fit-margin-right="0.5" fit-margin-top="0.5" pagecolor="#ffffff" showgrid="false">
+          <inkscape:grid id="grid2996" empspacing="5" enabled="true" originx="240.00001px" originy="36.574434px" snapvisiblegridlinesonly="true" type="xygrid" visible="true"/>
+        </sodipodi:namedview>
+        <g id="sims_x5F_logo">
+          <g id="g3070">
+            <g id="g3055">
+              <path id="path2998" class="st9" d="M49.5,150v-10.3h-3.4l.8-3.1h8.5v3.1h-2.8v10.3h-3.1Z"/>
+              <path id="path3000" class="st12" d="M56.5,150v-13.4h2.6v4.3s.7-1.2,2.6-1.2,2.8.7,2.8,2.6v7.7h-2.6v-6.2c0-1-.2-1.5-1.3-1.5s-1.6.7-1.6,1.5v6.2h-2.6Z"/>
+              <path id="path3002" class="st4" d="M70.4,139.7c-3.8,0-5.2,3-5.2,5.2,0,3.2,2.4,5.2,5.2,5.2s4.4-1.5,4.4-1.5l-1.5-2.2s-1.3,1.2-2.8,1.2-1.8-.7-1.8-.7l6.5-4.1s-1.4-3-4.9-3ZM70,142.2c.9,0,1.4.6,1.4.6l-3.1,2s-.7-1.3.7-2.2c.4-.3.7-.4,1-.4Z"/>
+            </g>
+            <g id="g3018">
+              <path id="path3006" class="st5" d="M57.5,160l8.5-10.4s4.3,4.9,11.9,4.9,9.5-4.1,9.5-6.5c0-10.5-29.1-4.5-29.1-26.9s8.6-19.7,22.7-19.7,18.3,5,20.3,7l-8.1,10.3s-4.5-4.8-11.1-4.8-8.1,2.4-8.1,5.7c0,11.4,28.9,3.7,28.9,27.2s-11.4,21.2-24.1,21.2-21.3-7.9-21.3-7.9h0Z"/>
+              <path id="path3008" class="st11" d="M117.8,167h-15v-8.8s2.6-4.8,2.6-11.3-2.6-10.8-2.6-10.8v-23.2h15v54.1Z"/>
+              <path id="path3010" class="st6" d="M173.7,163.8l.6,3.2h-15.1l-2.4-20.1-3.7,20.1h-13.6l-3.4-20-2.8,20h-14.7l10-59.8h12.6l5.3,28.1,5.2-22.4h12.7l8.1,44,5.1-6.8s3.5,4.6,9.7,4.6c3.4,0,6.3-1.7,6.3-4,0-7.3-23.3-2.9-23.3-22s10.6-18.1,22-18.1,17.6,6.1,17.6,6.1l-8.3,10.2s-3.9-2.9-9.9-2.9-6.5,1.4-6.5,4c0,6.8,23.2,3.1,23.2,21.7s-9.4,18-20.4,18-14.2-3.7-14.2-3.7h0Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
