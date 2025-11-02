@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_未命名的渐变_12);
+      }
+
+      .st0, .st1, .st2 {
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill-opacity: .3;
+      }
+
+      .st3 {
+        display: none;
+        fill: #3387b5;
+      }
+
+      .st4 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_6);
+      }
+
+      .st5 {
+        fill: #0f303f;
+      }
+
+      .st6 {
+        fill: #fdc00f;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_12" data-name="未命名的渐变 12" x1="17" y1="103" x2="241" y2="103" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f303f"/>
+      <stop offset=".4" stop-color="#10313e"/>
+      <stop offset=".5" stop-color="#17353d"/>
+      <stop offset=".6" stop-color="#233c3a"/>
+      <stop offset=".7" stop-color="#344637"/>
+      <stop offset=".8" stop-color="#4a5333"/>
+      <stop offset=".8" stop-color="#65642d"/>
+      <stop offset=".9" stop-color="#867826"/>
+      <stop offset=".9" stop-color="#ab8e1f"/>
+      <stop offset="1" stop-color="#d4a717"/>
+      <stop offset="1" stop-color="#fdc00f"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" x1="17" y1="-46" x2="241" y2="-194" gradientTransform="translate(0 16) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14b0bf"/>
+      <stop offset="1" stop-color="#3387b5"/>
+    </linearGradient>
+  </defs>
+  <path class="st0" d="M104.4,42.4c-4.4-5.3-10.9-8.4-17.8-8.4H29c-6.6,0-12,5.4-12,12v114c0,6.6,5.4,12,12,12h200c6.6,0,12-5.4,12-12v-89.9c0-6.6-5.4-12-12-12h-111.6l-13-15.7Z"/>
+  <path class="st1" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v86c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-74c0-6.6,5.4-12,12-12h63.8Z"/>
+  <path class="st2" d="M92.8,74c5,0,9.8-1.6,13.8-4.6l9.9-7.4h112.5c6.6,0,12,5.4,12,12v124c0,6.6-5.4,12-12,12H29c-6.6,0-12-5.4-12-12v-112c0-6.6,5.4-12,12-12h63.8Z"/>
+  <g>
+    <path class="st3" d="M183.3,178.3c17.7-17.7,24.8-42,21.4-65l-31.8-32.1-90.5,16,2.6,14.8h.7c0-.1,0,0,0,0h-.8v50c0,1.9.9,3.6,2.3,4.7.3.3,33.3,33.3,33.4,33.4,22.3,2.6,45.6-4.6,62.7-21.7Z"/>
+    <path class="st5" d="M188.6,176.8c0,3.9-3.2,7.2-7.2,7.2h-94.6c-3.9,0-7.2-3.2-7.2-7.2v-52.1c0-3.9,3.2-7.2,7.2-7.2h94.6c3.9,0,7.2,3.2,7.2,7.2v52.1Z"/>
+    <rect class="st4" x="79.6" y="117.6" width="109" height="17.8"/>
+    <path class="st5" d="M97.4,120l-13,13.1h13.1l13-13.1h-13.1ZM152,120l-13,13.1h13.1l13-13.1h-13.1ZM115.6,120l-13,13.1h13.1l13-13.1h-13.1ZM133.8,120l-13,13.1h13.1l13-13.1h-13.1ZM170.2,120l-13,13.1h13.1l13-13.1h-13.1ZM188.4,120l-13,13.1h13.1v-13.1h-.2ZM79.6,120v13.1h0l13-13.1h-13.1Z"/>
+    <rect class="st4" x="77.3" y="90.5" width="109" height="17.8" transform="translate(-15.3 24.4) rotate(-10)"/>
+    <path class="st5" d="M153.8,88.9l15.1,10.7,12.9-2.3-15.1-10.7-12.9,2.3ZM100,98.4l15.1,10.7,12.9-2.3-15.1-10.7-12.9,2.3ZM135.9,92.1l15.1,10.7,12.9-2.3-15.1-10.7-12.9,2.3ZM118,95.3l15.1,10.7,12.9-2.3-15.1-10.7-12.9,2.3ZM82.1,101.6l15.1,10.7,12.9-2.3-15.1-10.7-12.9,2.3ZM77,102.5l2.3,12.9,12.9-2.3-15.1-10.7h-.2ZM171.4,85.8l15.1,10.7h0s-2.3-13-2.3-13l-12.9,2.3Z"/>
+    <path class="st6" d="M181.3,154.2h0v-12.9h-94.7v36.3h94.7v-21.9h0v-1.6ZM179.9,142.7v11.4h-35.6v-11.4h35.6ZM142.7,142.7v11.4h-37.9v-11.4h37.9ZM88,176.2v-33.4h15.2v33.4h-15.2ZM104.8,176.2v-20.4h37.9v20.4h-37.9ZM179.9,176.2h-35.6v-20.4h35.6v20.4h0Z"/>
+  </g>
+</svg>
