@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill-opacity: .3;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill-rule: evenodd;
+      }
+
+      .st4 {
+        fill: url(#_未命名的渐变_75);
+      }
+
+      .st5 {
+        fill: #fd0000;
+      }
+
+      .st6 {
+        fill: #fff;
+      }
+
+      .st7 {
+        mask: url(#mask);
+      }
+
+      .st8 {
+        font-family: Georgia-BoldItalic, Georgia;
+        font-size: 48px;
+        font-style: italic;
+        font-weight: 700;
+      }
+
+      .st1 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st9 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_81);
+      }
+
+      .st10 {
+        fill: url(#_未命名的渐变_751);
+      }
+
+      .st11 {
+        mix-blend-mode: multiply;
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变_752);
+      }
+
+      .st13 {
+        fill: url(#_未命名的渐变_753);
+      }
+
+      .st3 {
+        fill: #472701;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="32.58" y1="239.55" x2="213.35" y2="58.41" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05815d"/>
+      <stop offset="1" stop-color="#0c575f"/>
+    </linearGradient>
+    <mask id="mask" x="17" y="34" width="224" height="138" maskUnits="userSpaceOnUse">
+      <g id="mask0_804_18486">
+        <path class="st1" d="M104.43,42.38c-4.37-5.31-10.88-8.38-17.75-8.38H29c-6.63,0-12,5.37-12,12v114c0,6.63,5.37,12,12,12h200c6.63,0,12-5.37,12-12v-89.86c0-6.63-5.37-12-12-12h-111.6l-12.98-15.76Z"/>
+      </g>
+    </mask>
+    <linearGradient id="_未命名的渐变_81" data-name="未命名的渐变 81" x1="107.85" y1="211.77" x2="162.6" y2="-20.64" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".23" stop-color="#8e4f00"/>
+      <stop offset=".44" stop-color="#412301"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_75" data-name="未命名的渐变 75" x1="73.83" y1="120.02" x2="142.77" y2="120.02" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff21f"/>
+      <stop offset="0" stop-color="#feee1c"/>
+      <stop offset=".03" stop-color="#fddc0c"/>
+      <stop offset=".06" stop-color="#fcd003"/>
+      <stop offset=".09" stop-color="#fccd00"/>
+      <stop offset=".31" stop-color="#f1942e"/>
+      <stop offset=".55" stop-color="#ea652d"/>
+      <stop offset="1" stop-color="#e5352b" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_751" data-name="未命名的渐变 75" y1="136.87" y2="136.87" xlink:href="#_未命名的渐变_75"/>
+    <linearGradient id="_未命名的渐变_752" data-name="未命名的渐变 75" x1="186.34" y1="162.12" x2="117.62" y2="156.55" xlink:href="#_未命名的渐变_75"/>
+    <linearGradient id="_未命名的渐变_753" data-name="未命名的渐变 75" x1="187.7" y1="145.33" x2="118.98" y2="139.76" xlink:href="#_未命名的渐变_75"/>
+  </defs>
+  <g class="st9">
+    <g id="_图层_1" data-name="图层_1">
+      <path class="st3" d="M104.43,42.38c-4.37-5.31-10.88-8.38-17.75-8.38H29c-6.63,0-12,5.37-12,12v114c0,6.63,5.37,12,12,12h200c6.63,0,12-5.37,12-12v-89.86c0-6.63-5.37-12-12-12h-111.6l-12.98-15.76Z"/>
+      <g class="st7">
+        <g class="st11">
+          <path class="st0" d="M92.79,74c4.98,0,9.82-1.61,13.8-4.6l9.87-7.4h112.54c6.63,0,12,5.37,12,12v86c0,6.63-5.37,12-12,12H29c-6.63,0-12-5.37-12-12v-74c0-6.63,5.37-12,12-12h63.79Z"/>
+        </g>
+      </g>
+      <path class="st2" d="M92.79,74c4.98,0,9.82-1.61,13.8-4.6l9.87-7.4h112.54c6.63,0,12,5.37,12,12v124c0,6.63-5.37,12-12,12H29c-6.63,0-12-5.37-12-12v-112c0-6.63,5.37-12,12-12h63.79Z"/>
+      <text class="st8" transform="translate(139.7 125.79)"><tspan class="st6" x="0" y="0">6</tspan><tspan class="st5" x="31.1" y="0">4</tspan></text>
+      <text class="st8" transform="translate(59.64 174.27)"><tspan class="st6" x="0" y="0">3</tspan><tspan class="st5" x="29.98" y="0">2</tspan></text>
+      <g id="_x36_-3_arrow">
+        <g>
+          <path class="st4" d="M78.25,132.76c2.92-5.56,6.37-10.88,10.69-15.6,2.17-2.35,4.56-4.53,7.21-6.39,2.62-1.88,5.65-3.4,8.52-4.43,5.82-2.2,12-3.38,18.1-3.3,6.08.1,12.14,1.29,17.45,3.95-5.64-1.81-11.61-2-17.27-1.22-5.68.81-11.09,2.77-15.97,5.54-2.51,1.41-4.61,2.87-6.56,4.73-1.94,1.84-3.67,3.93-5.21,6.17-3.08,4.5-5.43,9.57-7.28,14.78l-9.67-4.24Z"/>
+          <polygon class="st10" points="72.77 129.36 94.63 137.52 79.63 144.37 72.77 129.36"/>
+        </g>
+      </g>
+      <g id="_x32_-4_arrow">
+        <g>
+          <path class="st12" d="M182.96,149.06c-3.36,5.31-7.23,10.33-11.92,14.68-2.35,2.16-4.91,4.14-7.7,5.79-2.76,1.66-5.91,2.93-8.85,3.73-5.98,1.72-12.23,2.4-18.3,1.83-6.05-.59-11.99-2.26-17.07-5.35,5.47,2.26,11.41,2.93,17.12,2.61,5.73-.35,11.28-1.86,16.36-4.23,2.61-1.2,4.83-2.49,6.92-4.19,2.08-1.67,3.97-3.62,5.69-5.73,3.43-4.23,6.18-9.1,8.44-14.15l9.3,5Z"/>
+          <polygon class="st13" points="188.14 152.89 167.02 143 182.52 137.38 188.14 152.89"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
