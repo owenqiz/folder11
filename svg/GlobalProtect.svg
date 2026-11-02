@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill-opacity: .3;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill-rule: evenodd;
+      }
+
+      .st4 {
+        fill: #fff;
+      }
+
+      .st5 {
+        mask: url(#mask);
+      }
+
+      .st1 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st6 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st7 {
+        mix-blend-mode: multiply;
+      }
+
+      .st3 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="129" y1="224" x2="129" y2="86" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b70000"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="32.58" y1="239.55" x2="213.35" y2="58.41" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05815d"/>
+      <stop offset="1" stop-color="#0c575f"/>
+    </linearGradient>
+    <mask id="mask" x="17" y="34" width="224" height="138" maskUnits="userSpaceOnUse">
+      <g id="mask0_956_21508">
+        <path class="st3" d="M104.43,42.38c-4.37-5.31-10.88-8.38-17.75-8.38H29c-6.63,0-12,5.37-12,12v114c0,6.63,5.37,12,12,12h200c6.63,0,12-5.37,12-12v-89.86c0-6.63-5.37-12-12-12h-111.6l-12.98-15.76Z"/>
+      </g>
+    </mask>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="17" y1="196" x2="241" y2="48" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e38123"/>
+      <stop offset="1" stop-color="#cb1e24"/>
+    </linearGradient>
+  </defs>
+  <g class="st6">
+    <g id="_图层_1" data-name="图层_1">
+      <path class="st1" d="M104.43,42.38c-4.37-5.31-10.88-8.38-17.75-8.38H29c-6.63,0-12,5.37-12,12v114c0,6.63,5.37,12,12,12h200c6.63,0,12-5.37,12-12v-89.86c0-6.63-5.37-12-12-12h-111.6l-12.98-15.76Z"/>
+      <g class="st5">
+        <g class="st7">
+          <path class="st0" d="M92.79,74c4.98,0,9.82-1.61,13.8-4.6l9.87-7.4h112.54c6.63,0,12,5.37,12,12v86c0,6.63-5.37,12-12,12H29c-6.63,0-12-5.37-12-12v-74c0-6.63,5.37-12,12-12h63.79Z"/>
+        </g>
+      </g>
+      <path class="st2" d="M92.79,74c4.98,0,9.82-1.61,13.8-4.6l9.87-7.4h112.54c6.63,0,12,5.37,12,12v124c0,6.63-5.37,12-12,12H29c-6.63,0-12-5.37-12-12v-112c0-6.63,5.37-12,12-12h63.79Z"/>
+      <g>
+        <path class="st4" d="M161.2,109.37l-15.24-16.54-15.24,16.54,7.58,8.23-38.21,41.48,15.24,16.54,15.24-16.54-7.58-8.23,38.21-41.49Z"/>
+        <path class="st4" d="M115.48,92.83l-38.21,41.48,15.24,16.54,38.21-41.48-15.24-16.54Z"/>
+        <path class="st4" d="M168.78,117.6l-38.21,41.48,15.24,16.54,38.21-41.48-15.24-16.54Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
